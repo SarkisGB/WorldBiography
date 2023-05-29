@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="World_Biography.MvcApplication" Language="C#" %>
